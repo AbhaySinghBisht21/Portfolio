@@ -10,6 +10,12 @@ const Navbar = () => {
         <p className="blue-gradient_text">ASB</p>
       </NavLink>
       <nav className="flex text-lg gap-7 font-medium">
+         <NavLink
+          to="https://drive.google.com/file/d/1JZydDGHi9DNvXvm2V3HxjHTkCntWRbpN/view?usp=drive_link"
+          target="_blank"
+        >
+          Resume
+        </NavLink>
         <NavLink
           to="/about"
           className={({ isActive }) =>
