@@ -184,7 +184,7 @@ export const projects = [
     name: "Youtube",
     description:
       "YouTube frontend where we can perfume basic task like search, enjoy music, movies and can see channels.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+    link: "https://elegant-palmier-940692.netlify.app",
   },
   {
     iconUrl: car,
