@@ -11,7 +11,7 @@ const Navbar = () => {
       </NavLink>
       <nav className="flex text-lg gap-7 font-medium">
          <NavLink
-          to="https://drive.google.com/file/d/1JZydDGHi9DNvXvm2V3HxjHTkCntWRbpN/view?usp=drive_link"
+          to="https://drive.google.com/file/d/1DLAFeh0NPmy13LLCflXrb5CJjSDbLJuZ/view?usp=drive_link"
           target="_blank"
         >
           Resume
